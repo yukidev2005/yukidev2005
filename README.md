@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="./love.jpg" alt="Vy" width="120" style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" />
-  <h1 style="margin-top: 16px;">Hi, I'm <span style="color:#38bdf8;">Yuki</span> 👋</h1>
-  <p>
+  <img src="./love.jpg" alt="Vy" width="220" style="border-radius: 24px; box-shadow: 0 8px 32px rgba(0,0,0,0.20); margin-bottom: 24px; border: 4px solid #38bdf8;" />
+  <h1 style="margin-top: 24px; font-size: 2.5rem;">Hi, I'm <span style="color:#38bdf8;">Yuki</span> 👋</h1>
+  <p style="font-size: 1.2rem;">
     <b>Fullstack Developer</b> from 🇻🇳 <b>Ho Chi Minh City</b>
   </p>
-  <blockquote>
-    <i>"Tôi làm vì tôi thương cô ấy – và thương chính tôi của ngày mai."</i>
+  <blockquote style="font-size: 1.1rem; margin-top: 16px;">
+    <i>"I used to be a developer living off my teacher's support. Now, I'm changing myself—one day at a time."</i>
   </blockquote>
 </div>
 
@@ -42,23 +42,23 @@
 <table>
   <tr>
     <td>🌱</td>
-    <td>Đang học <b>backend architecture</b>, <b>authentication</b>, <b>RESTful API best practices</b></td>
+    <td>Currently learning <b>backend architecture</b>, <b>authentication</b>, and <b>RESTful API best practices</b>.</td>
   </tr>
   <tr>
     <td>💡</td>
-    <td>Xây web sinh nhật để rèn luyện <b>kỷ luật</b> và <b>trái tim</b></td>
+    <td>Building a birthday web app to practice <b>discipline</b> and <b>heart</b>.</td>
   </tr>
   <tr>
     <td>🧠</td>
-    <td>Mục tiêu: <i>"6 tháng, không phải 6 ngày"</i></td>
+    <td>Goal: <i>"6 months, not 6 days."</i></td>
   </tr>
   <tr>
     <td>🧘</td>
-    <td>Không vội vàng nữa. Code để trưởng thành, không phải để trốn chạy</td>
+    <td>No more rushing. I code to grow, not to escape.</td>
   </tr>
   <tr>
     <td>🛠️</td>
-    <td>Biết <b>React, HTML, CSS, JS, TS, Tailwind, Next.js</b> (frontend) và <b>NestJS, SQL, Express, Node.js</b> (backend) – nói chung fullstack</td>
+    <td>Skilled in <b>React, HTML, CSS, JS, TS, Tailwind, Next.js</b> (frontend) and <b>NestJS, SQL, Express, Node.js</b> (backend) – basically fullstack.</td>
   </tr>
 </table>
 
@@ -70,8 +70,8 @@
 
 <div align="center">
 
-> <i>"Lúc tôi gục ngã, không ai kéo tôi dậy. Nên giờ tôi học cách đứng dậy, để kéo chính tôi – và có thể, một ngày nào đó, kéo ai đó khác."</i>  
-> <i>"Tôi không thể thay đổi quá khứ, nhưng tôi có thể khiến 'tôi của ngày mai' tự hào."</i>
+> <i>"When I fell, no one picked me up. So now I learn to stand up for myself—and maybe, one day, help someone else do the same."</i>  
+> <i>"I can't change the past, but I can make my future self proud."</i>
 
 </div>
 
@@ -91,5 +91,5 @@
 ---
 
 <div align="center">
-  <b>🖤 README này không chỉ là profile – mà là cam kết không bao giờ bỏ cuộc.</b>
+  <b>🖤 This README is not just a profile – it's my commitment to never give up.</b>
 </div>
