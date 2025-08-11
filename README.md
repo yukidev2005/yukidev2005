@@ -21,7 +21,7 @@
     <div style="min-width: 320px; text-align: left;">
       <h1 style="font-size: 2.5rem; margin-bottom: 12px;">Hi, I'm <span style="color:#38bdf8;">Yuki</span> 🇻🇳 👋</h1>
       <p style="font-size: 1.2rem; margin-bottom: 12px;">
-        <b>Fullstack Developer</b> from <b>Ho Chi Minh City, Vietnam</b>
+        <b>Frontend Developer</b> from <b>Ho Chi Minh City, Vietnam</b>
       </p>
       <blockquote style="font-size: 1.1rem; margin: 0; border-left: 4px solid #38bdf8; padding-left: 12px;">
         <i>
